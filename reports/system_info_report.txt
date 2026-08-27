@@ -1,0 +1,10 @@
+System Information Report
+
+Date and Time   : Thu Aug 27 08:51:24 PM IST 2026
+Logged-in User  : banibrata
+Hostname        : paulfoley
+Working Dir     : /home/banibrata/Desktop/cs699/scripts
+
+System Uptime   : up 2 hours, 19 minutes
+
+Report Generated Successfully
